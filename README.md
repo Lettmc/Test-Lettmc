@@ -53,7 +53,7 @@ To apply my hands-on experience with security tools and frameworks in a SOC envi
 ## 📜 Certifications
 
 [CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=YOUR_TRANSCRIPT_ID)
-- [CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=YOUR_TRANSCRIPT_ID)
+[CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=YOUR_TRANSCRIPT_ID)
 
 > _Add or remove based on what you have._
 
